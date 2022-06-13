@@ -20,7 +20,8 @@ import { PrintDealComponent } from './print-deal/print-deal.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
